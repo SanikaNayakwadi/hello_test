@@ -1,0 +1,1 @@
+printf "WELCOME TO DEVOPS LAB"
